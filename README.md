@@ -3,7 +3,7 @@
 
 **Tools Used:** Excel, MySQL, Tableau
 
-[Datasets Used](https://github.com/kramit624/Sql-Tableau-smart-bazar-sale-analysis/blob/main/dataset/Big_bazaar.csv)
+[Datasets Used](https://github.com/kramit624/Sql-Tableau-smart-bazar-sale-analysis/blob/main/dataset/Big_Bazaar.csv)
 
 [SQL Analysis (Code)](https://github.com/kramit624/Sql-Tableau-smart-bazar-sale-analysis/blob/main/db/smart_bazaar.sql)
 
